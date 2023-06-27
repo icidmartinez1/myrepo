@@ -4,3 +4,5 @@ use auto.dta
 #Now regress
 
 regress mpg weight
+
+#Whatever 
