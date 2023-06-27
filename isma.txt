@@ -1,0 +1,6 @@
+#This is a do-file 
+use auto.dta 
+
+#Now regress
+
+regress mpg weight
